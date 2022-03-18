@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/bundles/idioma.properties" />
+    <file url="file://$PROJECT_DIR$/bundles/idioma_en.properties" />
+    <file url="file://$PROJECT_DIR$/bundles/idioma_fr.properties" />
+    <file url="file://$PROJECT_DIR$/bundles/idioma_por.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/bundles/idioma.properties" />
+      <file value="file://$PROJECT_DIR$/bundles/idioma_en.properties" />
+      <file value="file://$PROJECT_DIR$/bundles/idioma_fr.properties" />
+      <file value="file://$PROJECT_DIR$/bundles/idioma_por.properties" />
+      <base-name>idioma</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
